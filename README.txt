@@ -11,3 +11,4 @@
 4. command to run test - gradlew testDebugUnitTest
 
 5. build report path - C:\Android_projects\SecondAndroidProject\app\build\reports\tests\testDebugUnitTest\index.html
+6. test class to run - C:\Android_projects\SecondAndroidProject\app\src\test\java\com\example\tsoleg\secondandroidproject\ExampleUnitTest.java
